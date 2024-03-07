@@ -9,3 +9,5 @@ users: list = [
 ]
 
 print(users)
+
+rprint(users)
